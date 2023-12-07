@@ -1,5 +1,6 @@
 ### Hi there 👋
-![SebastianGiro's github stats](https://github-readme-stats.vercel.app/api?username=SebastianGiro&count_private=true&show_icons=true&theme=material-palenight)
+
+[comment]: <> (![SebastianGiro's github stats](https://github-readme-stats.vercel.app/api?username=SebastianGiro&count_private=true&show_icons=true&theme=material-palenight))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGiro&layout=compact)
 <br/>
